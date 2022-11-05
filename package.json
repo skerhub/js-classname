@@ -30,6 +30,10 @@
     "js",
     "jslib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skerhub/classname.git"
+  },
   "author": "skerhub",
   "license": "MIT",
   "devDependencies": {
