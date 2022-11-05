@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "target": "es5",
+      "allowJs": true,
+      "strict": true,
+      "outDir": "./dist",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "downlevelIteration":true,
+      "lib": ["dom","ES2020"],
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"],
+    "files": ["./src/index.ts"]
+  }
