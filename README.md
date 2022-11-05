@@ -9,7 +9,7 @@ less code,more benefit!
 ## 使用
 
 ```
-import cm from 'classname'
+import cm from 'js-classname'
 
 //string type
 const classes = cm('head','headTop')// 'head headTop'
