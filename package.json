@@ -1,6 +1,6 @@
 {
-  "name": "classname",
-  "version": "0.0.1",
+  "name": "js-classname",
+  "version": "0.0.2",
   "description": "一个极简的、微小的组合className的JavaScript库",
   "type": "module",
   "main": "./dist/index.esm.js",
@@ -32,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/skerhub/classname.git"
+    "url": "https://github.com/skerhub/js-classname.git"
   },
   "author": "skerhub",
   "license": "MIT",
